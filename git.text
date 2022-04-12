@@ -1,1 +1,17 @@
+git is "software for tracking changes in any set of files". it's usually used for cordinate work among team works. 
+it's a mature, actively maintained open source project orginally developed in 2005.
+git is a version control system that lets you manage and keep track of your source code histroy.
+git is installed and maintained on your local system (rather than in the cloud).
+Don't need internet access except to download it.
+Git is responsive, east to use, and inexpensive (free aceess)
+It's degined to work well with text files.
+Branching allows you to create independent local branches in your code.
 
+git feature:
+it's easy to learn and use
+save time
+one documents can be used many people
+use to edit and delete
+Documents can be public or only me
+Work can be done offline
+The changes can be made and storage in special databease called repo or repository
